@@ -69,7 +69,12 @@
 }
 .login-button {
 	margin-top: 14px;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
+}
+.forgot-password {
+	justify-self: center;
+	font-size: 12px;
+	text-decoration: underline;
 }
 @media (max-width: 640px) {
 	.logo {
